@@ -150,6 +150,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Learning Journey**: Each project reflects my growth as a front-end developer, and I’m excited to keep building!
 
 ## Contact
-Have questions, suggestions, or want to collaborate? Open an issue on GitHub or reach out to me at [your-email@example.com].
+Have questions, suggestions, or want to collaborate? Open an issue on GitHub or reach out to me at [sandeeplimbure@gmail.com].
 
 Happy coding! 🚀
